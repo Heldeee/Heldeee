@@ -14,12 +14,9 @@ I'm a Computer Science student at EPITA (École Pour l'Informatique et les Techn
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 
 ## 🛠 Libraries and Frameworks
-- NumPy
-- Matplotlib
-- Pandas
-- TensorFlow
-- Dash
-- Plotly
+![Plotly](https://img.shields.io/badge/-Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white)
+![Dash](https://img.shields.io/badge/-Dash-008DE4?style=flat-square&logo=dash&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
 
 ## 🚀 My Projects
 - **Python for BigData**: Large-scale stock data processing and visualization (Dash, Plotly...)
