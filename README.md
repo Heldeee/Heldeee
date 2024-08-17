@@ -15,7 +15,8 @@ I'm a Computer Science student at EPITA (École Pour l'Informatique et les Techn
 
 ## 🛠 Libraries and Frameworks
 ![Plotly](https://img.shields.io/badge/-Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white)
-![Dash](https://img.shields.io/badge/-Dash-008DE4?style=flat-square&logo=dash&logoColor=white)
+![Dash](https://img.shields.io/badge/-Dash-008DE4?style=flat-square&logo=plotly&logoColor=white)
+![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
 
 ## 🚀 My Projects
