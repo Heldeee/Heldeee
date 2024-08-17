@@ -1,7 +1,7 @@
 # Hi there! 👋 I'm Léo
 
 ## 🎓 About Me
-💻 I'm a Computer Science student at EPITA (École Pour l'Informatique et les Techniques Avancées) entering my 5th and final year of studying! \
+💻 I'm a Computer Science student @epita entering my 5th and final year of studying! \
 🤓 I'm looking forward to learn new technologies, I like playing with data and explore new projects!
 
 ## 💻 Technologies I Use
