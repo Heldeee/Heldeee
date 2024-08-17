@@ -42,6 +42,7 @@
 ![Dash](https://img.shields.io/badge/-Dash-3F4F75?style=flat&logo=plotly&logoColor=white)
 ![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![Matplolib](https://img.shields.io/badge/-Matplotlib-013243?style=flat&logo=pandas&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
 ![Keras](https://img.shields.io/badge/-Keras-D00000?style=flat&logo=keras&logoColor=white)
 
