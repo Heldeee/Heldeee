@@ -72,8 +72,7 @@
 ## 📫 Contact Me
 
 [![Gmail](https://img.shields.io/badge/-leodevin24%40gmail%2Ecom-D14836?style=flat&logo=gmail&logoColor=white)](mailto:leodevin24@gmail.com) \
-[![LinkedIn](https://img.shields.io/badge/-Léo%20Devin-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leo-devin) \
-[![Twitter](https://img.shields.io/badge/-@heldeeee-000000?style=flat&logo=x&logoColor=white)](https://twitter.com/heldeeee)
+[![LinkedIn](https://img.shields.io/badge/-Léo%20Devin-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leo-devin)
 
 ***
 
