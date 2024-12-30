@@ -61,7 +61,7 @@
 📈 [**Python for BigData**](https://github.com/Heldeee/projet-pybd): Large-scale stock data processing and visualization/interactions (Python, Dash, Plotly, Docker, Css) \
 🖌️ [**Piñte**](https://github.com/Heldeee/Pinte): Graphical drawing software from scratch in (C) \
 📱 [**OCR Sudoku Solver**](https://github.com/DraGonKill25/OCR): Optical Character Recognition to solve sudoku from an image (C) \
-🎮 [**Erased**](https://github.com/Heldeee/Erased): Metroidvania-style game developed with Unity (C#)
+🎮 [**Erased**](https://github.com/Heldeee/Erased): Metroidvania-style game developed with Unity (C#) \
 🩺 [**Medical Cabinet**](https://github.com/Heldeee/inta_td): Medical Cabinet Web Software to manage patients with roles (React, Node, MongoDB, Docker, API Rest, Express, Axios) \
 🩺 [**Medical Cabinet**](https://github.com/Heldeee/inta_td): Medical Cabinet Web Software to manage patients with roles (React, Node, MongoDB, Docker, API Rest, Express, Axios) \
 🩻 [**Web XR Project**](https://github.com/Heldeee/projet-raug): Web XR project to have an interactive human body for medicinal purposes (WebXR, JS, React) \
