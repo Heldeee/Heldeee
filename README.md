@@ -21,7 +21,7 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![Html](https://img.shields.io/badge/-Html-E34F26?style=flat&logo=html5&logoColor=white)
 ![Css](https://img.shields.io/badge/-Css-1572B6?style=flat&logo=css3&logoColor=white)
-![React](https://img.shields.io/badge/-Css-1572B6?style=flat&logo=React&logoColor=white)
+![React](https://img.shields.io/badge/-React-1572B4?style=flat&logo=React&logoColor=white)
 
 ### 💻 Development
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
