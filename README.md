@@ -1,81 +1,157 @@
-# Hi there! 👋 I'm Léo
+<div align="center">
 
-## 🎓 About Me
-💻 I'm a Computer Science student @epita entering my 5th and final year of studying! \
-🤓 I'm looking forward to learn new technologies, I like playing with data and explore new projects!
+<img src="./assets/agent-network.gif" alt="Animated agentic graph introducing Léo Devin, software engineer in applied AI" width="100%" />
 
-## 💻 Technologies I Use
+<br/>
 
-### ⚙️ Languages
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Léo%20Devin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leo-devin)
+[![Email](https://img.shields.io/badge/Let's%20talk-Email-26374A?style=for-the-badge&logo=gmail&logoColor=white)](mailto:leodevin24@gmail.com)
+[![Location](https://img.shields.io/badge/Based%20in-Bordeaux-087F8C?style=for-the-badge&logo=googlemaps&logoColor=white)](https://www.openstreetmap.org/search?query=Bordeaux)
 
-![C](https://img.shields.io/badge/-C-A8B9CC?style=flat&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
-![C#](https://img.shields.io/badge/-C%23-A86FDF?style=flat&logo=c%2B%2B&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-EA7E20?style=flat&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=Python&logoColor=white)
-![Rust](https://img.shields.io/badge/-Rust-000000?style=flat&logo=rust&logoColor=white)
-![R](https://img.shields.io/badge/-R-276DC3?style=flat&logo=r&logoColor=white)
-![Shell](https://img.shields.io/badge/-Shell-4EAA25?style=flat&logo=gnu-bash&logoColor=white)
+**`BUILDING SYSTEMS THAT THINK, SEARCH, AND ACT.`**
 
-### 🌐 Web
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![Html](https://img.shields.io/badge/-Html-E34F26?style=flat&logo=html5&logoColor=white)
-![Css](https://img.shields.io/badge/-Css-1572B6?style=flat&logo=css3&logoColor=white)
-![React](https://img.shields.io/badge/-React-1572B4?style=flat&logo=React&logoColor=white)
+</div>
 
-### 💻 Development
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)
-![Make](https://img.shields.io/badge/-Make-6D00CC?style=flat&logo=make&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Ubuntu](https://img.shields.io/badge/-Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white)
-![Unity](https://img.shields.io/badge/-Unity-FFFFFF?style=flat&logo=unity&logoColor=black)
+## `> whoami`
 
-### 💾 Database
-![Airtable](https://img.shields.io/badge/-Airtable-18BFFF?style=flat&logo=airtable&logoColor=white)
-![Neo4j](https://img.shields.io/badge/-Neo4j-4581C3?style=flat&logo=neo4j&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-![Elasticsearch](https://img.shields.io/badge/-Elasticsearch-005571?style=flat&logo=Elasticsearch&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+I'm **Léo**, a software engineer and **EPITA graduate (2025)** working at the intersection of **software engineering, AI integration and data**.
 
-### 🛠 Libraries and Frameworks
-![Plotly](https://img.shields.io/badge/-Plotly-3F4F75?style=flat&logo=plotly&logoColor=white)
-![Dash](https://img.shields.io/badge/-Dash-3F4F75?style=flat&logo=plotly&logoColor=white)
-![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas&logoColor=white)
-![Matplolib](https://img.shields.io/badge/-Matplotlib-013243?style=flat&logo=pandas&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
-![Keras](https://img.shields.io/badge/-Keras-D00000?style=flat&logo=keras&logoColor=white)
+My favorite engineering problems happen where a model becomes a real product: orchestrating tools, building reliable retrieval pipelines, running inference locally and making complex systems understandable.
 
-![Quarkus](https://img.shields.io/badge/-Quarkus-4695EB?style=flat&logo=quarkus&logoColor=white)
-![Redis](https://img.shields.io/badge/-Redis-FF4438?style=flat&logo=redis&logoColor=white)
+```yaml
+focus:
+  - Agentic systems and tool orchestration
+  - Retrieval-augmented generation and document intelligence
+  - Local AI, inference and GPU-conscious engineering
+  - Full-stack applications and developer tooling
+engineering_values: [practical, reproducible, privacy-conscious]
+currently_exploring: [LangGraph, multimodal RAG, local LLMs, developer agents]
+```
 
-![Node.js](https://img.shields.io/badge/-Node.js-5FA04E?style=flat&logo=node.js&logoColor=black)
-![Axios](https://img.shields.io/badge/-Axios-5A29E4?style=flat&logo=axios&logoColor=black)
-![Npm](https://img.shields.io/badge/-npm-CB3837?style=flat&logo=npm&logoColor=white)
-![Express](https://img.shields.io/badge/-Express-000000?style=flat&logo=express&logoColor=white)
+## `> agent.run()`
 
+The way I like to build AI systems:
 
-## 👨‍🎓 School Projects
+```mermaid
+flowchart LR
+    U([User / Task]) --> P[Plan]
+    P --> R[Retrieve context]
+    R --> D{Enough evidence?}
+    D -- No --> T[Call tools]
+    T --> R
+    D -- Yes --> A[Generate answer]
+    A --> V[Validate / Cite]
+    V --> O([Useful output])
+    M[(Memory / State)] <--> P
+    M <--> T
 
-📈 [**Python for BigData**](https://github.com/Heldeee/projet-pybd): Large-scale stock data processing and visualization/interactions (Python, Dash, Plotly, Docker, Css) \
-🖌️ [**Piñte**](https://github.com/Heldeee/Pinte): Graphical drawing software from scratch in (C) \
-📱 [**OCR Sudoku Solver**](https://github.com/DraGonKill25/OCR): Optical Character Recognition to solve sudoku from an image (C) \
-🎮 [**Erased**](https://github.com/Heldeee/Erased): Metroidvania-style game developed with Unity (C#) \
-🩺 [**Medical Cabinet**](https://github.com/Heldeee/inta_td): Medical Cabinet Web Software to manage patients with roles (React, Node, MongoDB, Docker, API Rest, Express, Axios) \
-🩻 [**Web XR Project**](https://github.com/Heldeee/projet-raug): Web XR project to have an interactive human body for medicinal purposes (WebXR, JS, React) \
-🩻 [**Web XR Project - VR**](https://github.com/Heldeee/projet-raug-xr): Adaptation of the Web XR project in VR for smartphone and smart headset (WEBVR, JS, React)
+    classDef io fill:#103944,stroke:#52ddc9,color:#e7fbf7;
+    classDef compute fill:#192f49,stroke:#82a6e9,color:#eef5ff;
+    classDef decision fill:#463423,stroke:#ffbf69,color:#fff1da;
+    class U,O io;
+    class P,R,T,A,V,M compute;
+    class D decision;
+```
 
-## 🤓 Personal Projects
+> **Less AI theater, more engineering.** Evidence, controlled tool use, observable execution, and systems that can actually be deployed.
 
-🚇 **Rien A TaPer**: Communautary web project to analyze circulation of the train of Paris (JS, HTML, CSS)\
-👨‍🍳 **CookIt**: Web application to store and share cooking recipes (JS, HTML, CSS)
+## `> featured_work --select`
 
-## 📫 Contact Me
+<table>
+<tr>
+<td width="50%" valign="top">
 
-[![Gmail](https://img.shields.io/badge/-leodevin24%40gmail%2Ecom-D14836?style=flat&logo=gmail&logoColor=white)](mailto:leodevin24@gmail.com) \
-[![LinkedIn](https://img.shields.io/badge/-Léo%20Devin-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leo-devin)
+### 🧠 Agentic document intelligence
+**Private / professional work**
 
-***
+Document ingestion, OCR and layout-aware processing, semantic retrieval, and graph-based orchestration for grounded question answering.
 
-Feel free to reach out if you want to collaborate on a project or just chat about tech!
+`Python` `LangGraph` `RAG` `Weaviate` `FastAPI`
+
+</td>
+<td width="50%" valign="top">
+
+### 🖥️ Local AI playground
+**Personal experiments**
+
+Exploring quantized models, local inference, vision-language models and OpenAI-compatible endpoints with GPU-aware constraints.
+
+`llama.cpp` `Ollama` `vLLM` `GGUF` `Docker`
+
+</td>
+</tr>
+<tr>
+<td valign="top">
+
+### 🩻 [Human Body Explorer](https://github.com/Heldeee/projet-raug)
+**Interactive 3D medical visualization**
+
+Exploring human anatomy through an interactive 3D scene and web-based controls.
+
+`React` `Three.js` `WebXR`
+
+[View project ↗](https://github.com/Heldeee/projet-raug) · [VR exploration ↗](https://github.com/Heldeee/projet-raug-xr)
+
+</td>
+<td valign="top">
+
+### 📈 [Python for Big Data](https://github.com/Heldeee/projet-pybd)
+**Financial data exploration**
+
+Processing and visualizing market data through an interactive analytics application.
+
+`Python` `Dash` `Plotly` `Docker`
+
+[View project ↗](https://github.com/Heldeee/projet-pybd)
+
+</td>
+</tr>
+</table>
+
+<details>
+<summary><b>+ More projects, experiments and things I've built</b></summary>
+
+<br/>
+
+| Project | What it is | Stack |
+| :--- | :--- | :--- |
+| [Medical Cabinet](https://github.com/Heldeee/inta_td) | Patient-management web application | React, Node.js, databases, Docker |
+| [Piñte](https://github.com/Heldeee/Pinte) | Desktop drawing application built in C | C |
+| [OCR Sudoku Solver](https://github.com/DraGonKill25/OCR) | Recognize and solve Sudoku grids from images | C, OCR |
+| [Erased](https://github.com/Heldeee/Erased) | Metroidvania-style game | Unity, C# |
+| **Tiketo** | Lightweight self-hosted Kanban tool *(personal project)* | FastAPI, SQLite, Docker |
+| **Transit arrival automation** | Bus arrival lookup using transit API data and iOS Shortcuts *(experiment)* | JSON, SIRI, iOS Shortcuts |
+| **Procedural 3D exploration** | Experimenting with procedural spaces and game logic *(prototype)* | Godot, GDScript |
+
+</details>
+
+## `> toolchain --grouped`
+
+| Domain | Tools I work with |
+| :--- | :--- |
+| **AI & orchestration** | Python, LangChain, LangGraph, PyTorch, TensorFlow, Ollama, vLLM, llama.cpp |
+| **Backend & data** | FastAPI, Java, Quarkus, PostgreSQL, SQLite, Weaviate, pandas, NumPy |
+| **Web & interfaces** | TypeScript, JavaScript, React, Vue, Vite, HTML/CSS |
+| **Systems & other** | Docker, Linux, Git, Bash, C, C++, C#, Unity, Godot |
+
+## `> engineering_mindset`
+
+```text
+01  Start with a real problem.
+02  Keep the architecture understandable.
+03  Observe what the system actually does.
+04  Measure, iterate, and document.
+05  Prefer a useful system over an impressive demo.
+```
+
+<div align="center">
+
+---
+
+**Interested in AI engineering, local-first software, or building useful tools?**
+
+[**Connect on LinkedIn**](https://www.linkedin.com/in/leo-devin) · [**Send an email**](mailto:leodevin24@gmail.com) · [**Explore my repositories**](https://github.com/Heldeee?tab=repositories)
+
+<sub>Designed as an agentic system, built as a GitHub README. No tracking scripts, external animation services or generated activity stats.</sub>
+
+</div>
